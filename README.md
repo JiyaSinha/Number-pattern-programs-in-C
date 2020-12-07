@@ -1,4 +1,9 @@
 # Number-pattern-programs-in-C
+Number pattern is a series of numbers arranged in specific order. 
+These patterns are patterns created by numbers and are similar to star patterns. 
+They are best suited to enhance your logical thinking abilities and to practice flow control statements.
+In these programs nested looping is done where the first loop changes the line and other nested loops are used to print the number patterns.
+It is really wonderful to note that all these programs have wide range applications as well.
 Assignment Questions:
 Square number patterns
      11111
